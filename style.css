@@ -1,3 +1,24 @@
-h1{
-    color:red;
+body {
+  font-family: "Open Sans", sans-serif;
+}
+.banner {
+  background-image: url("./images/Banner\ Image.png");
+  background-repeat: no-repeat;
+  height: 600px;
+  width: 1700px;
+  margin-left: 120px;
+  margin-top: 0;
+}
+.new-year {
+  color: aquamarine;
+  margin-left: 500px;
+  padding-top: 120px;
+  font-size: 40px;
+}
+.new-year-celebration {
+  font-size: 70px;
+  font-weight: 700;
+  color: aquamarine;
+  padding-left: 400px;
+  padding-top: 100px;
 }
